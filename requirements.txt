@@ -6,6 +6,8 @@ scikit-learn>=1.0.0
 # Deep Learning
 tensorflow>=2.8.0
 keras>=2.8.0
+torch>=2.0.0
+torchvision>=0.15.0
 
 # Image Processing
 opencv-python>=4.5.0
